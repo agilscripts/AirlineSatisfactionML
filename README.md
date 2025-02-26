@@ -31,21 +31,9 @@ Visualizations reveal trends in customer satisfaction. Key insights are shared i
 - **Top Satisfaction Factors**: Online boarding, inflight WiFi, and travel class matter most.
 - **Best Model**: Random Forest outperformed other models with 96.41% accuracy.
 - **Areas for Improvement**: Faster boarding, better WiFi, and premium service enhancements.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AirlineSatisfactionML.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run Jupyter Notebook:
-   ```bash
    jupyter notebook
    ```
 
 ## License
-For educational and research use. Check Kaggle for dataset licensing.
+Check Kaggle for dataset licensing.
 
