@@ -31,8 +31,6 @@ Visualizations reveal trends in customer satisfaction. Key insights are shared i
 - **Top Satisfaction Factors**: Online boarding, inflight WiFi, and travel class matter most.
 - **Best Model**: Random Forest outperformed other models with 96.41% accuracy.
 - **Areas for Improvement**: Faster boarding, better WiFi, and premium service enhancements.
-   jupyter notebook
-   ```
 
 ## License
 Check Kaggle for dataset licensing.
